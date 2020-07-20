@@ -1,0 +1,4 @@
+2020-07-17T13:58:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\monsite\wp-content\plugins\woocommerce\includes\emails\class-wc-email-customer-on-hold-order.php à la ligne 8
+
+2020-07-17T15:25:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\monsite\wp-includes\wp-db.php à la ligne 2024
+
